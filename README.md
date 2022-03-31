@@ -1,6 +1,6 @@
 <div align="center">
 
-## 👋 Hello there!
+## `👋 hey there!`
 
 <div>
 <img align="center" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding-right:10px;" />
@@ -9,7 +9,7 @@
 </div>
 <br/>
 
-[🌐 Website](https://ndavd.com) ⸱ [🔗 Linkedin](https://ndavd.com/li)
+[🌐 Website](https://ndavd.com) ⸱ [🔗 LinkedIn](https://ndavd.com/li)
 
           
 [![ndavd's GitHub stats](https://github-readme-stats.vercel.app/api?username=ndavd&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
