@@ -15,5 +15,5 @@
 
 [![ndavd's GitHub stats](https://github-readme-stats.vercel.app/api?username=ndavd&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-> **Note** *- verify my commits:*
+> **Note** *- Until GitHub supports SSH keys my commits will appear as `Unverified`. If verification is necessary, you may verify them manually:*
 > `ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIGKXzz7zYA5BkV8NnaTSFHt2bWd0niU9Q/L5SkN5dZiS`
