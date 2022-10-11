@@ -11,7 +11,7 @@
 <img align="center" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" style="padding-right:10px;" />
 </div>
 
-[website](https://ndavd.com) ⸱ [linkedin](https://ndavd.com/li)
+--------- [Website](https://ndavd.com) - [LinkedIn](https://ndavd.com/li) ---------
 
 [![ndavd's GitHub stats](https://github-readme-stats.vercel.app/api?username=ndavd&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
