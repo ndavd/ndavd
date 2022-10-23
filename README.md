@@ -1,6 +1,6 @@
-<div align="center">
+## `$ ./hello_there`
 
-## `₿ ./hello_there!`
+<div align="center">
 
 <div>
 <img align="center" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding-right:10px;" />
