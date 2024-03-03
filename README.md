@@ -21,3 +21,7 @@
   <img align="center" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
   <strong><code>Linux</code></strong>
 </div>
+
+<br/>
+
+Checkout my projects 👇
