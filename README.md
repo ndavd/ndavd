@@ -1,24 +1,24 @@
 <div>
-  <img align="center" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" />
+  <img align="center" width="20px" src="https://github.com/ndavd/ndavd/blob/main/images/solidity.webp?raw=true" />
   <strong><code>Solidity</code></strong>
 </div>
 <div>
-  <img align="center" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Rustacean-orig-noshadow.svg/320px-Rustacean-orig-noshadow.svg.png" />
+  <img align="center" width="20px" src="https://github.com/ndavd/ndavd/blob/main/images/rust.webp?raw=true" />
   <strong><code>Rust</code></strong>
 </div>
 <div>
-  <img align="center" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img align="center" width="20px" src="https://github.com/ndavd/ndavd/blob/main/images/typescript.webp?raw=true" />
   <strong><code>TypeScript</code></strong>
 </div>
 
 <br/>
 
 <div>
-  <img align="center" width="20px" src="https://raw.githubusercontent.com/neovim/neovim.github.io/master/logos/neovim-mark.png" />
+  <img align="center" width="20px" src="https://github.com/ndavd/ndavd/blob/main/images/neovim.webp?raw=true" />
   <strong><code>Neovim</code></strong>
 </div>
 <div>
-  <img align="center" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+  <img align="center" width="20px" src="https://github.com/ndavd/ndavd/blob/main/images/linux.webp?raw=true" />
   <strong><code>Linux</code></strong>
 </div>
 
