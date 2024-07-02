@@ -1,3 +1,5 @@
+`Decentralization, Blockchain technology & Cryptography.`
+
 <div>
   <img align="center" width="20px" src="https://github.com/ndavd/ndavd/blob/main/images/solidity.webp?raw=true" />
   <strong><code>Solidity</code></strong>
@@ -24,4 +26,7 @@
 
 <br/>
 
-Checkout my projects 👇
+<code>Find me on <a href="https://cryptohack.org/user/0xndavd">CryptoHack</a>.
+</code>
+
+`Checkout my projects 👇`
