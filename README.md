@@ -5,12 +5,16 @@
   <strong><code>Solidity</code></strong>
 </div>
 <div>
+  <img align="center" width="20px" src="https://github.com/ndavd/ndavd/blob/main/images/typescript.webp?raw=true" />
+  <strong><code>TypeScript</code></strong>
+</div>
+<div>
   <img align="center" width="20px" src="https://github.com/ndavd/ndavd/blob/main/images/rust.webp?raw=true" />
   <strong><code>Rust</code></strong>
 </div>
 <div>
-  <img align="center" width="20px" src="https://github.com/ndavd/ndavd/blob/main/images/typescript.webp?raw=true" />
-  <strong><code>TypeScript</code></strong>
+  <img align="center" width="20px" src="https://github.com/ndavd/ndavd/blob/main/images/go.webp?raw=true" />
+  <strong><code>Go</code></strong>
 </div>
 
 <br/>
