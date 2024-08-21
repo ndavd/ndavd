@@ -1,4 +1,4 @@
-`Decentralization, Blockchain technology & Cryptography.`
+##### Decentralization, Blockchain technology & Cryptography.
 
 <div>
   <img align="center" width="20px" src="https://github.com/ndavd/ndavd/blob/main/images/solidity.webp?raw=true" />
@@ -28,9 +28,6 @@
   <strong><code>Linux</code></strong>
 </div>
 
-<br/>
-
-<code>Find me on <a href="https://cryptohack.org/user/0xndavd">CryptoHack</a>.
-</code>
-
-`Checkout my projects 👇`
+##### Find me on <a href="https://cryptohack.org/user/0xndavd">CryptoHack</a>.
+##### Signing key: `ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIGKXzz7zYA5BkV8NnaTSFHt2bWd0niU9Q/L5SkN5dZiS`.
+##### Checkout my projects 👇
