@@ -30,4 +30,3 @@
 
 ##### Find me on <a href="https://cryptohack.org/user/0xndavd">CryptoHack</a>.
 ##### Signing key: `ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIGKXzz7zYA5BkV8NnaTSFHt2bWd0niU9Q/L5SkN5dZiS`.
-##### Checkout my projects 👇
