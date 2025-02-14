@@ -28,6 +28,10 @@ Decentralization, Blockchain technology & Cryptography.
   <code>Arch Linux</code>
 </div>
 
+<br/>
+
+Checkout my technical blog hosted on IPFS: https://ndavd.eth.limo
+
 ### Signing key
 
 This key is used for signing all my git commits and other signed messages across
