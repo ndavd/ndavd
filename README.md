@@ -19,7 +19,7 @@ Decentralization, Blockchain technology & Cryptography.
 
 <br/>
 
-Checkout my technical blog hosted on IPFS: https://ndavd.eth.limo
+IPFS-hosted blog: [ndavd.eth.limo](https://ndavd.eth.limo)
 
 ### Signing key
 
