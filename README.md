@@ -1,6 +1,10 @@
 Decentralization, Blockchain technology & Cryptography.
 
 <div>
+  <img align="center" width="20px" src="https://github.com/ndavd/ndavd/blob/main/images/rust.webp?raw=true" />
+  <code>Rust</code>
+</div>
+<div>
   <img align="center" width="20px" src="https://github.com/ndavd/ndavd/blob/main/images/solidity.webp?raw=true" />
   <code>Solidity</code>
 </div>
@@ -9,23 +13,8 @@ Decentralization, Blockchain technology & Cryptography.
   <code>TypeScript</code>
 </div>
 <div>
-  <img align="center" width="20px" src="https://github.com/ndavd/ndavd/blob/main/images/rust.webp?raw=true" />
-  <code>Rust</code>
-</div>
-<div>
   <img align="center" width="20px" src="https://github.com/ndavd/ndavd/blob/main/images/go.webp?raw=true" />
   <code>Go</code>
-</div>
-
-<br/>
-
-<div>
-  <img align="center" width="20px" src="https://github.com/ndavd/ndavd/blob/main/images/neovim.webp?raw=true" />
-  <code>Neovim</code>
-</div>
-<div>
-  <img align="center" width="20px" src="https://github.com/ndavd/ndavd/blob/main/images/linux.webp?raw=true" />
-  <code>Arch Linux</code>
 </div>
 
 <br/>
