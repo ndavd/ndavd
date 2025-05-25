@@ -17,9 +17,10 @@ Decentralization, Blockchain technology & Cryptography.
   <code>Go</code>
 </div>
 
-<br/>
-
-IPFS-hosted blog: [ndavd.eth.limo](https://ndavd.eth.limo)
+Website: [ndavd.com](https://ndavd.com)\
+IPFS-hosted blog: [ndavd.eth.limo](https://ndavd.eth.limo)\
+Cryptography CTF:
+[cryptohack.org/user/0xndavd](https://cryptohack.org/user/0xndavd)
 
 ### Signing key
 
