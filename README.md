@@ -17,6 +17,8 @@ Decentralization, Blockchain technology & Cryptography.
   <code>Go</code>
 </div>
 
+<br/>
+
 Website: [ndavd.com](https://ndavd.com)\
 IPFS-hosted blog: [ndavd.eth.limo](https://ndavd.eth.limo)\
 Cryptography CTF:
