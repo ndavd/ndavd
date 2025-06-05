@@ -1,4 +1,3 @@
-Decentralization, Blockchain technology & Cryptography. \
 Relentlessly driven to solve complex problems.
 
 <div>
