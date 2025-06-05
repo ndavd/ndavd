@@ -1,4 +1,5 @@
-Decentralization, Blockchain technology & Cryptography.
+Decentralization, Blockchain technology & Cryptography. \
+Relentlessly driven to solve complex problems.
 
 <div>
   <img align="center" width="20px" src="https://github.com/ndavd/ndavd/blob/main/images/rust.webp?raw=true" />
