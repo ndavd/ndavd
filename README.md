@@ -20,7 +20,7 @@ Relentlessly driven to solve complex problems.
 <br/>
 
 Website: [ndavd.com](https://ndavd.com)\
-IPFS-hosted blog: [ndavd.eth.limo](https://ndavd.eth.limo)\
+Blog: [ndavd.eth.limo](https://ndavd.eth.limo)\
 Cryptography CTF:
 [cryptohack.org/user/0xndavd](https://cryptohack.org/user/0xndavd)
 
