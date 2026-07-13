@@ -1,33 +1,21 @@
 Relentlessly driven to solve complex problems.
 
-<div>
-  <img align="center" width="20px" src="https://github.com/ndavd/ndavd/blob/main/images/rust.webp?raw=true" />
-  <code>Rust</code>
-</div>
-<div>
-  <img align="center" width="20px" src="https://github.com/ndavd/ndavd/blob/main/images/solidity.webp?raw=true" />
-  <code>Solidity</code>
-</div>
-<div>
-  <img align="center" width="20px" src="https://github.com/ndavd/ndavd/blob/main/images/typescript.webp?raw=true" />
-  <code>TypeScript</code>
-</div>
-<div>
-  <img align="center" width="20px" src="https://github.com/ndavd/ndavd/blob/main/images/go.webp?raw=true" />
-  <code>Go</code>
-</div>
+<p>
+  <img align="center" height="18px" src="https://github.com/ndavd/ndavd/blob/main/images/rust.webp?raw=true" />
+  <code>Rust</code>&nbsp;&nbsp;
+  <img align="center" height="18px" src="https://github.com/ndavd/ndavd/blob/main/images/typescript.webp?raw=true" />
+  <code>TypeScript</code>&nbsp;&nbsp;
+  <img align="center" height="18px" src="https://github.com/ndavd/ndavd/blob/main/images/solidity.webp?raw=true" />
+  <code>Solidity</code>&nbsp;&nbsp;
+  <img align="center" height="18px" src="https://github.com/ndavd/ndavd/blob/main/images/go.webp?raw=true" />
+  <code>Go</code>&nbsp;&nbsp;
+  <img align="center" height="18px" src="https://github.com/ndavd/ndavd/blob/main/images/nix.webp?raw=true" />
+  <code>Nix</code>
+</p>
 
-<br/>
-
-Website: [ndavd.com](https://ndavd.com)\
-Blog: [ndavd.eth.limo](https://ndavd.eth.limo)\
-Cryptography CTF:
-[cryptohack.org/user/0xndavd](https://cryptohack.org/user/0xndavd)
-
-### Signing key
-
-This key is used for signing all my git commits and other signed messages across
-the Web.
-
+Commit signing key
 `ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIGKXzz7zYA5BkV8NnaTSFHt2bWd0niU9Q/L5SkN5dZiS`\
-(fingerprint: `SHA256:dHEUKRSE+jiTkWXNv37cXgcITwbXjROqT8iDjOJVTVY`)
+(fingerprint `SHA256:dHEUKRSE+jiTkWXNv37cXgcITwbXjROqT8iDjOJVTVY`).
+
+For a comprehensive list of my open source projects, check out my website
+[ndavd.com](https://ndavd.com).
