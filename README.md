@@ -1,16 +1,16 @@
 Relentlessly driven to solve complex problems.
 
 <p>
-  <img align="center" height="18px" src="https://github.com/ndavd/ndavd/blob/main/images/rust.webp?raw=true" />
-  <code>Rust</code>&nbsp;&nbsp;
-  <img align="center" height="18px" src="https://github.com/ndavd/ndavd/blob/main/images/typescript.webp?raw=true" />
-  <code>TypeScript</code>&nbsp;&nbsp;
-  <img align="center" height="18px" src="https://github.com/ndavd/ndavd/blob/main/images/solidity.webp?raw=true" />
-  <code>Solidity</code>&nbsp;&nbsp;
-  <img align="center" height="18px" src="https://github.com/ndavd/ndavd/blob/main/images/go.webp?raw=true" />
-  <code>Go</code>&nbsp;&nbsp;
-  <img align="center" height="18px" src="https://github.com/ndavd/ndavd/blob/main/images/nix.webp?raw=true" />
-  <code>Nix</code>
+  <img height="16" src="https://github.com/ndavd/ndavd/blob/main/images/rust.webp?raw=true" />
+  <span>Rust</span>&nbsp;&nbsp;
+  <img height="16" src="https://github.com/ndavd/ndavd/blob/main/images/typescript.webp?raw=true" />
+  <span>TypeScript</span>&nbsp;&nbsp;
+  <img height="16" src="https://github.com/ndavd/ndavd/blob/main/images/solidity.webp?raw=true" />
+  <span>Solidity</span>&nbsp;&nbsp;
+  <img height="16" src="https://github.com/ndavd/ndavd/blob/main/images/go.webp?raw=true" />
+  <span>Go</span>&nbsp;&nbsp;
+  <img height="16" src="https://github.com/ndavd/ndavd/blob/main/images/nix.webp?raw=true" />
+  <span>Nix</span>
 </p>
 
 Commit signing key
