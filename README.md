@@ -1,5 +1,3 @@
-Relentlessly driven to solve complex problems.
-
 <p>
   <img height="16" src="https://github.com/ndavd/ndavd/blob/main/images/rust.webp?raw=true" />
   <span>Rust</span>&nbsp;&nbsp;
@@ -13,9 +11,9 @@ Relentlessly driven to solve complex problems.
   <span>Nix</span>
 </p>
 
+For a comprehensive list of my open source projects, check out my website
+[ndavd.com](https://ndavd.com).
+
 Commit signing key
 `ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIGKXzz7zYA5BkV8NnaTSFHt2bWd0niU9Q/L5SkN5dZiS`\
 (fingerprint `SHA256:dHEUKRSE+jiTkWXNv37cXgcITwbXjROqT8iDjOJVTVY`).
-
-For a comprehensive list of my open source projects, check out my website
-[ndavd.com](https://ndavd.com).
